@@ -6,11 +6,12 @@ description: Contact
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
 
-| Day       | Opening Hours   |
+| Dag       | Openingstijden  |
 | --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+| Maandag   | 10:00 - 20:00   |
+| Tuesday   | 10:00 - 20:00   |
+| Wednesday | 10:00 - 20:00   |
+| Thursday  | 10:00 - 20:00   |
+| Friday    | 10:00 - 20:00   |
+| Saturday  | 10:00 - 20:00   |
+| Zondag    | 10:00 - 20:00   |
