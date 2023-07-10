@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# De Buffel - Al meer dan 20 jaar in Tilburg.
 
 Lekker buffelen! Elke dag van de week af halen. Typen: Friet, Snacks, Nederlands, Aziatisch.

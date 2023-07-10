@@ -1,6 +1,6 @@
-baseurl: '/'
+baseurl: 'https//:shiko.nl'
 permalink: pretty
-title: 'De buffel'
+title: 'De Buffel'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
