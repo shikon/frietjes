@@ -1,6 +1,6 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "Menu"
+    url: "/menu/"
     weight: 2
   - name: "Team"
     url: "/team/"
@@ -14,7 +14,7 @@ main:
 
 footer:
   - name: "Home"
-    url: "/"
+    url: "www.debuffel.net"
     weight: 1
   - name: "Contact"
     url: "/contact/"
