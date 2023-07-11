@@ -14,7 +14,7 @@ main:
 
 footer:
   - name: "Home"
-    url: "www.debuffel.net"
+    url: "/"
     weight: 1
   - name: "Contact"
     url: "/contact/"
