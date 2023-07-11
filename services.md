@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Menu
 layout: services
 description: Menu
 intro_image: "images/illustrations/reading.svg"
