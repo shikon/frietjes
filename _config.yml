@@ -23,12 +23,12 @@ collections:
 
 defaults:
   - scope:
-      path: ""
-      type: "services"
+      path: "/"
+      type: "menu"
     values:
       layout: "service"
   - scope:
-      path: ""
+      path: "/"
       type: "team"
     values:
       layout: "team"
